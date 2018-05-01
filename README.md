@@ -12,3 +12,12 @@ Apply Bayes' classifier using:
 5 K nearest neighbor estimatition
 
 and apply perceptron learning algorithm. (Stop criteria would be two or three passes of data.)
+
+
+relevant files
+
+1 ML estimation
+make_type_list.py
+study_type_list.py
+repeat_type_study.sh
+assign_classes.py
