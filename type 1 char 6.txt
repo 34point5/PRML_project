@@ -1,0 +1,5 @@
+type 3,0
+type 1,0
+type 2,0
+type 4,0
+type 5,0
