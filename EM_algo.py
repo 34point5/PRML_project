@@ -11,7 +11,7 @@ testSet = []
 data1 = []
 data0 = []
 
-K = 5
+K = 5 # No. of Gaussian models to be used in GMMs to be used for each class
 mean = [[0 for x in range(10)] for y in range(K) ]  # K x 10
 mean1 = [[0 for x in range(10)] for y in range(K)]  # K x 10
 
